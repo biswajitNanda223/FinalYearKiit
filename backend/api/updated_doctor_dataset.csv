@@ -1,0 +1,201 @@
+Doctor Name,Specialization,Hospital,Experience (years),Contact,General Specialization
+Dr. Sarah Miller,COVID-19,Harmony Health Hospital,12,+91-8881445377,General Practitioner
+Dr. Robert Johnson,Dengue,City General Hospital,21,+91-6275502453,General Practitioner
+Dr. Emily Johnson,Asthma,City General Hospital,25,+91-7991797830,Pulmonologist
+Dr. Emma Jones,Migraine,City General Hospital,29,+91-8473134880,Neurologist
+Dr. James Jones,Hypertension,Harmony Health Hospital,12,+91-8208751832,Cardiologist
+Dr. Robert Johnson,COVID-19,City General Hospital,28,+91-8639645644,General Practitioner
+Dr. Michael Smith,Typhoid,Harmony Health Hospital,30,+91-8471746556,General Practitioner
+Dr. Olivia Jones,Typhoid,Sunrise Medical Center,23,+91-6464190134,General Practitioner
+Dr. Emily Martinez,Diabetes,City General Hospital,6,+91-9975693566,Endocrinologist
+Dr. Olivia Brown,Food Poisoning,Green Valley Clinic,22,+91-8331313218,General Practitioner
+Dr. Emma Smith,Flu,Sunrise Medical Center,24,+91-9927746874,General Practitioner
+Dr. Olivia Jones,COVID-19,City General Hospital,12,+91-7569835905,General Practitioner
+Dr. Sophia Brown,Pneumonia,Green Valley Clinic,10,+91-9168410685,General Practitioner
+Dr. Olivia Martinez,Common Cold,City General Hospital,8,+91-7082225663,General Practitioner
+Dr. James Jones,Migraine,Harmony Health Hospital,23,+91-6285329095,Neurologist
+Dr. David Jones,Pneumonia,Green Valley Clinic,28,+91-8233921773,General Practitioner
+Dr. James Jones,Diabetes,Green Valley Clinic,23,+91-8888721106,Endocrinologist
+Dr. John Hernandez,Tuberculosis,City General Hospital,19,+91-7530934602,Pulmonologist
+Dr. Olivia Williams,Pneumonia,Sunrise Medical Center,5,+91-6486173718,General Practitioner
+Dr. Robert Martinez,Heart Disease,Sunrise Medical Center,24,+91-7022225547,Cardiologist
+Dr. David Smith,Diabetes,Green Valley Clinic,26,+91-9964814946,Endocrinologist
+Dr. Emily Martinez,Food Poisoning,Sunrise Medical Center,12,+91-6389811368,General Practitioner
+Dr. Sophia Martinez,Migraine,Sunrise Medical Center,29,+91-6586128570,Neurologist
+Dr. Olivia Smith,Heart Disease,Green Valley Clinic,24,+91-7123202782,Cardiologist
+Dr. Michael Brown,Tuberculosis,Sunrise Medical Center,25,+91-6695743080,Pulmonologist
+Dr. David Williams,Food Poisoning,Harmony Health Hospital,14,+91-9108208271,General Practitioner
+Dr. Sophia Davis,Tuberculosis,Sunrise Medical Center,16,+91-8310673508,Pulmonologist
+Dr. Sophia Smith,Common Cold,Sunrise Medical Center,23,+91-9988145223,General Practitioner
+Dr. Michael Johnson,Migraine,Green Valley Clinic,25,+91-6797637451,Neurologist
+Dr. David Hernandez,Bronchitis,Sunrise Medical Center,21,+91-6842399961,General Practitioner
+Dr. Sophia Miller,Bronchitis,City General Hospital,13,+91-7082338802,General Practitioner
+Dr. Sophia Hernandez,Typhoid,Sunrise Medical Center,27,+91-8181679918,General Practitioner
+Dr. Olivia Johnson,Tuberculosis,Sunrise Medical Center,14,+91-8309634805,Pulmonologist
+Dr. James Johnson,Dengue,Harmony Health Hospital,20,+91-9129647209,General Practitioner
+Dr. James Johnson,Heart Disease,City General Hospital,22,+91-6831414456,Cardiologist
+Dr. Sophia Johnson,Malaria,Harmony Health Hospital,10,+91-9132101714,Infectious Disease Specialist
+Dr. Emily Martinez,Tuberculosis,Sunrise Medical Center,12,+91-8706262889,Pulmonologist
+Dr. Robert Davis,Heart Disease,Harmony Health Hospital,30,+91-6478371565,Cardiologist
+Dr. Sarah Smith,Malaria,Sunrise Medical Center,24,+91-6338972285,Infectious Disease Specialist
+Dr. Michael Jones,Diabetes,Harmony Health Hospital,9,+91-7788730142,Endocrinologist
+Dr. Sophia Garcia,Tuberculosis,Harmony Health Hospital,20,+91-6319446145,Pulmonologist
+Dr. Sophia Williams,Hypertension,Harmony Health Hospital,13,+91-9672225206,Cardiologist
+Dr. John Jones,Hypertension,City General Hospital,24,+91-7135911512,Cardiologist
+Dr. Sarah Miller,Flu,City General Hospital,9,+91-6852131498,General Practitioner
+Dr. James Smith,Malaria,Sunrise Medical Center,27,+91-8031278450,Infectious Disease Specialist
+Dr. Robert Smith,Pneumonia,Harmony Health Hospital,9,+91-9290494662,General Practitioner
+Dr. Robert Williams,Hypertension,City General Hospital,21,+91-9642603196,Cardiologist
+Dr. Olivia Davis,Asthma,City General Hospital,5,+91-6712024779,Pulmonologist
+Dr. Olivia Brown,Heart Disease,Sunrise Medical Center,5,+91-9712756198,Cardiologist
+Dr. Michael Garcia,Hypertension,Sunrise Medical Center,14,+91-7837759106,Cardiologist
+Dr. Emily Davis,Pneumonia,City General Hospital,23,+91-6780385328,General Practitioner
+Dr. Sarah Brown,Flu,Green Valley Clinic,28,+91-7911986874,General Practitioner
+Dr. John Martinez,COVID-19,Green Valley Clinic,14,+91-6018348918,General Practitioner
+Dr. James Williams,Hypertension,Harmony Health Hospital,13,+91-7734414646,Cardiologist
+Dr. Michael Garcia,Hypertension,Sunrise Medical Center,7,+91-9813637672,Cardiologist
+Dr. Michael Smith,Food Poisoning,Sunrise Medical Center,15,+91-9113409265,General Practitioner
+Dr. James Garcia,Tuberculosis,Green Valley Clinic,17,+91-6317210235,Pulmonologist
+Dr. Robert Jones,Diabetes,City General Hospital,22,+91-9421300724,Endocrinologist
+Dr. James Hernandez,Tuberculosis,City General Hospital,22,+91-8196452795,Pulmonologist
+Dr. John Garcia,Common Cold,Harmony Health Hospital,19,+91-9006867740,General Practitioner
+Dr. Sarah Brown,Malaria,Harmony Health Hospital,7,+91-7620182457,Infectious Disease Specialist
+Dr. Olivia Jones,Pneumonia,Harmony Health Hospital,17,+91-8129592365,General Practitioner
+Dr. Olivia Garcia,Heart Disease,Sunrise Medical Center,23,+91-7212976225,Cardiologist
+Dr. John Williams,Diabetes,Green Valley Clinic,16,+91-8212678604,Endocrinologist
+Dr. James Miller,Pneumonia,City General Hospital,15,+91-8617506907,General Practitioner
+Dr. Michael Brown,Common Cold,Green Valley Clinic,14,+91-6522228578,General Practitioner
+Dr. James Martinez,Tuberculosis,Sunrise Medical Center,12,+91-6847038590,Pulmonologist
+Dr. Sophia Martinez,Tuberculosis,Sunrise Medical Center,27,+91-8650203349,Pulmonologist
+Dr. Olivia Brown,Common Cold,Sunrise Medical Center,22,+91-8494838357,General Practitioner
+Dr. Robert Smith,Food Poisoning,City General Hospital,17,+91-9878327264,General Practitioner
+Dr. James Smith,Common Cold,Green Valley Clinic,6,+91-9950851602,General Practitioner
+Dr. James Hernandez,Pneumonia,Harmony Health Hospital,7,+91-9156408145,General Practitioner
+Dr. Emily Martinez,Flu,Harmony Health Hospital,27,+91-8816279036,General Practitioner
+Dr. Robert Martinez,Typhoid,Sunrise Medical Center,21,+91-8680601486,General Practitioner
+Dr. John Jones,Bronchitis,Green Valley Clinic,21,+91-8614569563,General Practitioner
+Dr. Robert Brown,Bronchitis,Green Valley Clinic,25,+91-7434392492,General Practitioner
+Dr. Emily Smith,Food Poisoning,Sunrise Medical Center,22,+91-7504908908,General Practitioner
+Dr. Robert Garcia,Diabetes,City General Hospital,5,+91-7069193263,Endocrinologist
+Dr. Michael Jones,Malaria,Sunrise Medical Center,8,+91-7007559862,Infectious Disease Specialist
+Dr. James Johnson,Malaria,City General Hospital,11,+91-8595893402,Infectious Disease Specialist
+Dr. David Hernandez,Bronchitis,Green Valley Clinic,19,+91-6591276686,General Practitioner
+Dr. Emily Williams,Dengue,Harmony Health Hospital,8,+91-7815247866,General Practitioner
+Dr. David Miller,Malaria,Sunrise Medical Center,18,+91-6502088574,Infectious Disease Specialist
+Dr. Robert Hernandez,Bronchitis,Sunrise Medical Center,8,+91-6398330345,General Practitioner
+Dr. James Johnson,Typhoid,Green Valley Clinic,20,+91-6301334745,General Practitioner
+Dr. Emily Brown,Migraine,Harmony Health Hospital,23,+91-7568792556,Neurologist
+Dr. Emma Jones,Dengue,City General Hospital,25,+91-7389975795,General Practitioner
+Dr. Michael Brown,Diabetes,City General Hospital,15,+91-7792734821,Endocrinologist
+Dr. Michael Davis,COVID-19,Sunrise Medical Center,27,+91-9066593762,General Practitioner
+Dr. Michael Miller,Food Poisoning,Green Valley Clinic,5,+91-6147111394,General Practitioner
+Dr. James Williams,Food Poisoning,Harmony Health Hospital,14,+91-7391326897,General Practitioner
+Dr. David Jones,Common Cold,City General Hospital,16,+91-8092262187,General Practitioner
+Dr. John Miller,Malaria,Harmony Health Hospital,23,+91-8440658773,Infectious Disease Specialist
+Dr. Emily Garcia,Malaria,Green Valley Clinic,26,+91-8928609618,Infectious Disease Specialist
+Dr. David Garcia,Typhoid,City General Hospital,12,+91-8956836473,General Practitioner
+Dr. Sophia Johnson,Migraine,Harmony Health Hospital,18,+91-6482331223,Neurologist
+Dr. Emily Brown,Bronchitis,Sunrise Medical Center,29,+91-7704606589,General Practitioner
+Dr. Emily Davis,Diabetes,City General Hospital,17,+91-8136677764,Endocrinologist
+Dr. James Davis,Common Cold,Sunrise Medical Center,24,+91-8154651022,General Practitioner
+Dr. Sarah Jones,Common Cold,Harmony Health Hospital,20,+91-7334305398,General Practitioner
+Dr. John Davis,Malaria,Harmony Health Hospital,13,+91-8159318477,Infectious Disease Specialist
+Dr. Emily Smith,Flu,City General Hospital,10,+91-9093872169,General Practitioner
+Dr. Emily Smith,Pneumonia,Harmony Health Hospital,9,+91-7261417102,General Practitioner
+Dr. Emily Miller,COVID-19,City General Hospital,29,+91-9384243469,General Practitioner
+Dr. David Jones,COVID-19,Harmony Health Hospital,14,+91-7736252714,General Practitioner
+Dr. David Miller,Food Poisoning,City General Hospital,11,+91-7050810184,General Practitioner
+Dr. Emily Davis,Asthma,Green Valley Clinic,10,+91-6215896106,Pulmonologist
+Dr. James Jones,Hypertension,Harmony Health Hospital,10,+91-9309183745,Cardiologist
+Dr. Sophia Jones,Tuberculosis,City General Hospital,24,+91-8325120901,Pulmonologist
+Dr. Emily Martinez,Common Cold,Green Valley Clinic,30,+91-9809722186,General Practitioner
+Dr. Emma Miller,Heart Disease,Sunrise Medical Center,6,+91-8871393875,Cardiologist
+Dr. Emma Smith,Malaria,Sunrise Medical Center,19,+91-8386145020,Infectious Disease Specialist
+Dr. Emily Martinez,Bronchitis,City General Hospital,15,+91-6436128317,General Practitioner
+Dr. Emily Hernandez,Migraine,Green Valley Clinic,20,+91-6762401851,Neurologist
+Dr. Michael Jones,Dengue,City General Hospital,12,+91-7637952053,General Practitioner
+Dr. Emma Williams,Pneumonia,City General Hospital,16,+91-7158041427,General Practitioner
+Dr. Olivia Jones,Asthma,Harmony Health Hospital,12,+91-9985233126,Pulmonologist
+Dr. Olivia Williams,Malaria,Green Valley Clinic,22,+91-7362651405,Infectious Disease Specialist
+Dr. Olivia Williams,Common Cold,City General Hospital,11,+91-8500253979,General Practitioner
+Dr. John Davis,Dengue,Green Valley Clinic,16,+91-9861051824,General Practitioner
+Dr. Olivia Martinez,COVID-19,City General Hospital,14,+91-7984255059,General Practitioner
+Dr. David Jones,Asthma,City General Hospital,6,+91-9542599776,Pulmonologist
+Dr. James Johnson,Bronchitis,Sunrise Medical Center,15,+91-9610469913,General Practitioner
+Dr. John Jones,Malaria,Sunrise Medical Center,7,+91-7128456741,Infectious Disease Specialist
+Dr. Olivia Davis,Typhoid,Sunrise Medical Center,12,+91-6733488070,General Practitioner
+Dr. Sarah Williams,Food Poisoning,Harmony Health Hospital,9,+91-8504737585,General Practitioner
+Dr. Robert Smith,Hypertension,Sunrise Medical Center,25,+91-7057563461,Cardiologist
+Dr. Robert Miller,Pneumonia,Green Valley Clinic,7,+91-6130407982,General Practitioner
+Dr. John Jones,Diabetes,Sunrise Medical Center,5,+91-7380034034,Endocrinologist
+Dr. Robert Johnson,Hypertension,Sunrise Medical Center,26,+91-6131082868,Cardiologist
+Dr. Michael Johnson,Bronchitis,Green Valley Clinic,26,+91-8555558898,General Practitioner
+Dr. Olivia Johnson,Malaria,Harmony Health Hospital,25,+91-7438501911,Infectious Disease Specialist
+Dr. Sarah Jones,Migraine,Sunrise Medical Center,25,+91-6798886309,Neurologist
+Dr. James Davis,Bronchitis,City General Hospital,30,+91-6773737479,General Practitioner
+Dr. Michael Brown,Food Poisoning,Green Valley Clinic,17,+91-6218913016,General Practitioner
+Dr. Emma Jones,Flu,Green Valley Clinic,26,+91-9164290358,General Practitioner
+Dr. Emma Davis,Dengue,Harmony Health Hospital,27,+91-9744546452,General Practitioner
+Dr. Emma Williams,Migraine,City General Hospital,21,+91-6582553525,Neurologist
+Dr. Robert Jones,Bronchitis,City General Hospital,10,+91-8826386534,General Practitioner
+Dr. David Williams,Typhoid,Harmony Health Hospital,23,+91-8913330463,General Practitioner
+Dr. James Miller,Pneumonia,Sunrise Medical Center,9,+91-8920065432,General Practitioner
+Dr. Sophia Williams,Common Cold,Green Valley Clinic,18,+91-8200226922,General Practitioner
+Dr. David Martinez,Bronchitis,Harmony Health Hospital,30,+91-7117121613,General Practitioner
+Dr. Olivia Brown,Typhoid,City General Hospital,10,+91-7354862154,General Practitioner
+Dr. Olivia Hernandez,Malaria,Harmony Health Hospital,26,+91-7373995761,Infectious Disease Specialist
+Dr. John Jones,Dengue,City General Hospital,30,+91-8668206546,General Practitioner
+Dr. Sarah Smith,Bronchitis,Sunrise Medical Center,7,+91-9903841683,General Practitioner
+Dr. John Johnson,Asthma,City General Hospital,19,+91-7490543777,Pulmonologist
+Dr. Emma Martinez,Dengue,City General Hospital,28,+91-8089631335,General Practitioner
+Dr. James Jones,Migraine,Sunrise Medical Center,14,+91-9007188620,Neurologist
+Dr. James Davis,Hypertension,Sunrise Medical Center,6,+91-6860950601,Cardiologist
+Dr. David Martinez,Dengue,Green Valley Clinic,30,+91-8653275491,General Practitioner
+Dr. Emma Jones,Tuberculosis,Sunrise Medical Center,26,+91-9955109104,Pulmonologist
+Dr. Emma Johnson,Pneumonia,Green Valley Clinic,26,+91-6463514572,General Practitioner
+Dr. Robert Hernandez,Tuberculosis,Green Valley Clinic,23,+91-9021814003,Pulmonologist
+Dr. John Martinez,Diabetes,City General Hospital,8,+91-8289705646,Endocrinologist
+Dr. Michael Brown,Diabetes,City General Hospital,10,+91-9511064511,Endocrinologist
+Dr. Sarah Martinez,Common Cold,Harmony Health Hospital,29,+91-8299357600,General Practitioner
+Dr. Sarah Jones,Asthma,Sunrise Medical Center,23,+91-9784104366,Pulmonologist
+Dr. Robert Miller,Tuberculosis,Sunrise Medical Center,11,+91-8708078490,Pulmonologist
+Dr. David Smith,Food Poisoning,Harmony Health Hospital,29,+91-7346191668,General Practitioner
+Dr. Emily Martinez,Migraine,City General Hospital,22,+91-8042218587,Neurologist
+Dr. Olivia Hernandez,Flu,Sunrise Medical Center,19,+91-8504984944,General Practitioner
+Dr. Sophia Brown,Diabetes,Sunrise Medical Center,9,+91-9802222582,Endocrinologist
+Dr. Sarah Smith,Typhoid,City General Hospital,5,+91-7063267556,General Practitioner
+Dr. Sophia Garcia,Malaria,Green Valley Clinic,21,+91-7987511530,Infectious Disease Specialist
+Dr. Emma Brown,Bronchitis,Sunrise Medical Center,19,+91-9723997147,General Practitioner
+Dr. Sarah Smith,Hypertension,Sunrise Medical Center,8,+91-6366324810,Cardiologist
+Dr. Robert Hernandez,Pneumonia,Sunrise Medical Center,13,+91-9599962409,General Practitioner
+Dr. Emma Hernandez,Diabetes,Green Valley Clinic,25,+91-9166949619,Endocrinologist
+Dr. Michael Williams,Malaria,Sunrise Medical Center,23,+91-8545774100,Infectious Disease Specialist
+Dr. Sophia Miller,Common Cold,Green Valley Clinic,25,+91-9370170286,General Practitioner
+Dr. James Johnson,Migraine,Green Valley Clinic,23,+91-8356121467,Neurologist
+Dr. Robert Davis,Common Cold,Sunrise Medical Center,29,+91-8275391406,General Practitioner
+Dr. Robert Miller,COVID-19,Green Valley Clinic,14,+91-7586884744,General Practitioner
+Dr. David Brown,Dengue,Green Valley Clinic,6,+91-7157158405,General Practitioner
+Dr. Emma Johnson,Dengue,City General Hospital,20,+91-9284692859,General Practitioner
+Dr. Robert Johnson,Hypertension,Harmony Health Hospital,28,+91-9811752205,Cardiologist
+Dr. Olivia Garcia,Malaria,Harmony Health Hospital,19,+91-6427281826,Infectious Disease Specialist
+Dr. Sophia Jones,Heart Disease,Green Valley Clinic,18,+91-7674217668,Cardiologist
+Dr. Emily Smith,COVID-19,Sunrise Medical Center,11,+91-9610986114,General Practitioner
+Dr. David Hernandez,Bronchitis,Harmony Health Hospital,18,+91-7327796519,General Practitioner
+Dr. Sophia Johnson,Typhoid,Sunrise Medical Center,16,+91-7301961314,General Practitioner
+Dr. Sophia Brown,Flu,Sunrise Medical Center,24,+91-7625660522,General Practitioner
+Dr. Emily Jones,Heart Disease,City General Hospital,25,+91-9308400433,Cardiologist
+Dr. Emma Johnson,Common Cold,Sunrise Medical Center,26,+91-9726926090,General Practitioner
+Dr. Olivia Williams,Common Cold,Sunrise Medical Center,17,+91-9629888379,General Practitioner
+Dr. Sophia Brown,Hypertension,Green Valley Clinic,16,+91-9782636066,Cardiologist
+Dr. John Miller,Pneumonia,City General Hospital,15,+91-7417905005,General Practitioner
+Dr. Emily Davis,Flu,Sunrise Medical Center,27,+91-7357756537,General Practitioner
+Dr. Sarah Johnson,Malaria,Harmony Health Hospital,17,+91-9108875966,Infectious Disease Specialist
+Dr. Michael Smith,Food Poisoning,Sunrise Medical Center,29,+91-6335784823,General Practitioner
+Dr. Robert Hernandez,Food Poisoning,Harmony Health Hospital,21,+91-6983617216,General Practitioner
+Dr. James Hernandez,Common Cold,Green Valley Clinic,21,+91-7893618178,General Practitioner
+Dr. Michael Garcia,COVID-19,Sunrise Medical Center,6,+91-9505994815,General Practitioner
+Dr. James Johnson,Food Poisoning,Harmony Health Hospital,9,+91-8484352690,General Practitioner
+Dr. Sophia Brown,Food Poisoning,Sunrise Medical Center,23,+91-9834385364,General Practitioner
+Dr. Sarah Garcia,COVID-19,Sunrise Medical Center,29,+91-7732459518,General Practitioner
+Dr. Michael Davis,Dengue,City General Hospital,26,+91-6312087459,General Practitioner
+Dr. James Williams,Asthma,Sunrise Medical Center,18,+91-7056225941,Pulmonologist
