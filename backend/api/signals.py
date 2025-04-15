@@ -21,7 +21,7 @@ def user_post_save(sender, instance, created, **kwargs):
         message = f"""
         Hi {instance.username},  
 
-        Welcome to [Your Healthcare Platform]! We’re excited to have you on board. 🌟  
+        Welcome to DiagnostiQ ! We’re excited to have you on board. 🌟  
 
         Our goal is to help you take charge of your health with reliable insights and tools, including:  
 
